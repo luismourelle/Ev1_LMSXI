@@ -20,3 +20,8 @@ ETIQUETAS:
 colspan="2" -> a jaula ocupa 2 espacios
 
 
+FORMULARIO:
+<form>
+    <label> Instruccions
+    <input type="...">
+
