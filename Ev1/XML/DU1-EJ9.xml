@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns:os="http://www.LuisMourelle.com/officeAplication"
+xmlns:of="http://www.LuisMourelle.com/operatingSystem">
+
+<os:systems>
+    <os:system id="01">
+        <name>Opera</name>
+        <version>113.0.5230.86</version>
+        <developer>Opera Software ASA</developer>
+        <url>https://www.opera.com/es</url>
+    </os:system>
+    <os:system id="02">
+        <name>Mozilla Firefox</name>
+        <version>131.0</version>
+        <developer>Corporación Mozilla, Fundación Mozilla</developer>
+        <url>https://www.mozilla.org/es-ES/firefox/new/</url>
+    </os:system>
+    <os:system id="03">
+        <name>Microsoft Edge</name>
+        <version>Edge 93</version>
+        <developer>Microsoft</developer>
+        <url>https://www.microsoft.com/es-es/edge</url>
+    </os:system>
+</os:systems>
+<of:systems>
+    <of:system id="01">
+        <name>Word Office</name>
+        <version>Word 2021</version>
+        <developer>Microsoft</developer>
+        <url>https://www.microsoft.com/es-es/microsoft-365/free-office-online-for-the-web</url>
+    </of:system>
+    <of:system id="02">
+        <name>PowerPoit</name>
+        <version>Microsoft Office 2021</version>
+        <developer>Microsoft</developer>
+        <url>https://www.microsoft.com/es-es/microsoft-365/powerpoint</url>
+    </of:system>
+    <of:system id="03">
+        <name>Excel</name>
+        <version>Excel 2021</version>
+        <developer>Microsoft</developer>
+        <url>https://www.microsoft.com/en-us/microsoft-365/excel</url>
+    </of:system>
+</of:systems>
+
+</catalog>

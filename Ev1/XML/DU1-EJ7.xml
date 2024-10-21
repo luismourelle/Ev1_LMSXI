@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<touristicTrip>
+
+
+    <travellers>
+
+        <traveller id="1">
+            <name>Luis</name>
+            <surname>Mourelle Abelenda</surname>
+        </traveller>
+
+        <traveller id="2">
+            <name>Jesús</name>
+            <surname>Cammaño Carreira</surname>
+        </traveller>
+
+    </travellers>
+
+
+    <date>
+
+        <beginDate>12/05/2025</beginDate>
+        <endDate>19/05/2025</endDate>
+
+    </date>    
+
+    <departurePlace>Santiago de Compostela (Airport)</departurePlace>
+
+    <destinations>
+
+        <destination>
+            <city>Tokyo, Japan</city>
+            <hotel>Kimpton Shinjuku Tokyo</hotel>
+            <numberOfNights>3</numberOfNights>
+        </destination>
+
+        <destination>
+            <city>Bangkok, Tailandia</city>
+            <hotel>Akara Hotel</hotel>
+            <numberOfNights>1</numberOfNights>
+        </destination>
+
+    </destinations>
+
+    <tripPrice>
+        <flights>
+            <flight>
+                <tokyo/>820$
+            </flight>
+            <flight>
+                <bangkok/>1020$
+            </flight>
+        </flights>
+    </tripPrice>
+
+
+</touristicTrip>

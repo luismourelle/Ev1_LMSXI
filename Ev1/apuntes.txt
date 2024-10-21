@@ -1,0 +1,22 @@
+<br>: enter
+<hr>: linea
+<blockquote>: citas
+
+<em>: letra inclinada
+
+LISTAS:
+<ul>: Lista desordenada
+<ol>: Lista ordenada
+<li>: Cada unha das filas (se poñemos li*4 ponnos 4 li)
+
+TABLAS:
+<thead>: cabeceira de tabla (en negrita)
+<tbody>: contido tabla 
+    <tr>
+        <td>
+<tfoot>: parte baixa de tabla (en negrita)
+
+ETIQUETAS:
+colspan="2" -> a jaula ocupa 2 espacios
+
+

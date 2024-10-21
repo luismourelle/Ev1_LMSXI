@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogue>
+    <products>
+        <product id="1">
+            <name>ASUS VivoBook 15</name>
+            <description>Perfect for all types of studies and office tasks.</description>
+            <price>799$</price>
+            <features>
+                <feature>
+                    <name>CPU</name>
+                    <value>Intel Core i7-1355U</value>
+                </feature>
+                <feature>
+                    <name>Storage</name>
+                    <value>1TB</value>
+                </feature>
+                <feature>
+                    <name>Operating System</name>
+                    <value>Windows 11 Home</value>
+                </feature>
+            </features>
+        </product>
+        <product id="2">
+            <name>Samsung Odyssey G4</name>
+            <description>The best screen to the best gamers.</description>
+            <price>204$</price>
+            <features>
+                <feature>
+                    <name>Inch</name>
+                    <value>25"</value>
+                </feature>
+                <feature>
+                    <name>Refresh Rate</name>
+                    <value>240Hz-1ms</value>
+                </feature>
+                <feature>
+                    <name>Screen Type</name>
+                    <value>IPS</value>
+                </feature>
+            </features>
+        </product>
+    </products>
+</catalogue>
